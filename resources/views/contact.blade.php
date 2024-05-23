@@ -1,12 +1,9 @@
 @extends('layouts.app')
 @section('content')
 
-
 <div>
-    
     <h1>
-        Home Page!
+        Pagina Contatti
     </h1>
-
 </div>
 @endsection
